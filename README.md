@@ -9,7 +9,7 @@ I want to be the best programmer or developer.
 I have to be proficient in every programming language.
 
 * 🌍  I'm based in THAILAND
-* ✉️  You can contact me at [zozkxku@gmail.com](mailto:wongsathon.witt@gmail.com)
+* ✉️  You can contact me at [wongsathon.witt@gmail.com](mailto:wongsathon.witt@gmail.com)
 * 🧠  I'm currently learning a new Full Python on Ai , Notes, JavaScript
 * 👥  I'm looking to collaborate on I do programming, websites, and AI integration with technology.
 * 💬  Ask me about I'm TajimeRose or Rose Male, age 18
