@@ -1,140 +1,66 @@
 # Hi 👋 I'm Wongsathon Witthaayakhom or TajimeRose
 
-## 🚀 Fake Developers
+## Freeland Developers
 
-I want to be the best programmer or developer.
+I want to be the best programmer or software developer, versatile and capable of almost anything. I want to continuously improve myself, develop my skills, and not be outmatched by AI.
+- I live in Thailand.
+- I am currently studying for a Bachelor's degree at Bangkok University.
+- I am currently learning several programming languages ​​and AI.
+- I am interested in programming, web development, automation, AI technology, databases, back-end systems, and more. I am ready to learn.
+---
 
--   🌍 I'm based in THAILAND
--   🧠 I'm currently learning Python, AI, JavaScript and Full Stack
-    Development
--   🤝 I'm interested in Programming, Websites, Automation and AI
-    Technology
+# Tech Stack
 
-------------------------------------------------------------------------
+## Programming Languages
 
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
-Languages used for building applications, automation and software
-development.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,rust,kotlin,dart,ruby" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,rust,kotlin,dart,ruby" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🌐 Frontend Development
+## Frontend Development
 
-Tools used for creating user interfaces and web applications.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,astro,vite,tailwind,bootstrap" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,arduino,vite,tailwind,flask,elysia" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## ⚙️ Backend Development
+## Backend Development
 
-Frameworks and technologies used for APIs, servers and backend systems.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,dotnet,laravel" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,dotnet,laravel,postman,npm" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🗄️ Database
+## Database
 
-Technologies used for storing, managing and processing data.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,obsidian" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🤖 AI & Automation
+## AI & Automation
 
-Tools used for artificial intelligence and automation systems.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
-Tools used for deployment, servers and development workflow.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,aws,azure,googlecloud" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,aws,azure,googlecloud" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🎨 Design Tools
+## Development Tools
 
-Tools used for interface design and graphics.
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 🧰 Development Tools
-
-Applications used for coding and workflow.
-
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=vscode,neovim,vim" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🌎 Social
-
-```{=html}
-<p align="left">
-```
-`<a href="https://github.com/TajimeRose">`{=html}
-`<img src="https://skillicons.dev/icons?i=github" width="50">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
