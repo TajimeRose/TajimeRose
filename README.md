@@ -1,12 +1,14 @@
-# Hi 👋 I'm Wongsathon Witthaayakhom (TajimeRose)
+# Hi 👋 I'm Wongsathon Witthaayakhom or TajimeRose
 
 ## 🚀 Fake Developers
 
 I want to be the best programmer or developer.
 
--   🌍 Based in Thailand
--   🧠 Currently learning Python, AI, JavaScript, Full Stack Development
--   🤝 Interested in Programming, Websites, Automation and AI Technology
+-   🌍 I'm based in THAILAND
+-   🧠 I'm currently learning Python, AI, JavaScript and Full Stack
+    Development
+-   🤝 I'm interested in Programming, Websites, Automation and AI
+    Technology
 
 ------------------------------------------------------------------------
 
@@ -29,7 +31,7 @@ development.
 
 ## 🌐 Frontend Development
 
-Tools used for creating user interfaces and modern web applications.
+Tools used for creating user interfaces and web applications.
 
 ```{=html}
 <p align="left">
@@ -97,7 +99,7 @@ Tools used for deployment, servers and development workflow.
 
 ------------------------------------------------------------------------
 
-## 🎨 Design & UI
+## 🎨 Design Tools
 
 Tools used for interface design and graphics.
 
@@ -113,7 +115,7 @@ Tools used for interface design and graphics.
 
 ## 🧰 Development Tools
 
-Applications used for coding and improving workflow.
+Applications used for coding and workflow.
 
 ```{=html}
 <p align="left">
@@ -131,9 +133,8 @@ Applications used for coding and improving workflow.
 <p align="left">
 ```
 `<a href="https://github.com/TajimeRose">`{=html}
-`<img src="https://skillicons.dev/icons?i=github" width="50" />`{=html}
+`<img src="https://skillicons.dev/icons?i=github" width="50">`{=html}
 `</a>`{=html}
 ```{=html}
 </p>
 ```
-⭐ Thanks for visiting my profile!
