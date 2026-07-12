@@ -7,6 +7,22 @@ I want to be the best programmer or software developer, versatile and capable of
 - I am currently studying for a Bachelor's degree at Bangkok University.
 - I am currently learning several programming languages ​​and AI.
 - I am interested in programming, web development, automation, AI technology, databases, back-end systems, and more. I am ready to learn.
+
+# Contact
+<p align="left">
+  <a href="mailto:wongsathon.witt@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/tajimerose.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://x.com/Tajime_ROSE">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 ---
 
 # Tech Stack
@@ -22,7 +38,7 @@ I want to be the best programmer or software developer, versatile and capable of
 ## Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,arduino,vite,tailwind,flask,elysia" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,arduino,vite,tailwind,flask,elysia,bun" />
 </p>
 
 ---
@@ -54,7 +70,7 @@ I want to be the best programmer or software developer, versatile and capable of
 ## Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,aws,azure,googlecloud" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,aws,azure,googlecloud,gitlab" />
 </p>
 
 ---
