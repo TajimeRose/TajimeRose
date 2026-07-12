@@ -2,13 +2,11 @@
 
 ## 🚀 Fake Developers
 
-I want to become a professional programmer and developer.
+I want to be the best programmer or developer.
 
 -   🌍 Based in Thailand
--   🧠 Currently learning Python, AI Integration, Web Development,
-    JavaScript and Full Stack Development
--   🤝 Interested in collaborating on Programming, Websites, Automation
-    and AI Technology
+-   🧠 Currently learning Python, AI, JavaScript, Full Stack Development
+-   🤝 Interested in Programming, Websites, Automation and AI Technology
 
 ------------------------------------------------------------------------
 
@@ -16,8 +14,8 @@ I want to become a professional programmer and developer.
 
 ## 💻 Programming Languages
 
-> Languages used for building applications, automation and software
-> development.
+Languages used for building applications, automation and software
+development.
 
 ```{=html}
 <p align="left">
@@ -31,7 +29,7 @@ I want to become a professional programmer and developer.
 
 ## 🌐 Frontend Development
 
-> Tools used for creating user interfaces and web applications.
+Tools used for creating user interfaces and modern web applications.
 
 ```{=html}
 <p align="left">
@@ -45,7 +43,7 @@ I want to become a professional programmer and developer.
 
 ## ⚙️ Backend Development
 
-> Frameworks and runtimes used for APIs, servers and application logic.
+Frameworks and technologies used for APIs, servers and backend systems.
 
 ```{=html}
 <p align="left">
@@ -59,7 +57,7 @@ I want to become a professional programmer and developer.
 
 ## 🗄️ Database
 
-> Technologies used for storing, managing and processing data.
+Technologies used for storing, managing and processing data.
 
 ```{=html}
 <p align="left">
@@ -73,7 +71,7 @@ I want to become a professional programmer and developer.
 
 ## 🤖 AI & Automation
 
-> Tools used for AI systems, automation and intelligent applications.
+Tools used for artificial intelligence and automation systems.
 
 ```{=html}
 <p align="left">
@@ -87,7 +85,7 @@ I want to become a professional programmer and developer.
 
 ## ☁️ Cloud & DevOps
 
-> Tools used for deployment, infrastructure and server management.
+Tools used for deployment, servers and development workflow.
 
 ```{=html}
 <p align="left">
@@ -99,9 +97,9 @@ I want to become a professional programmer and developer.
 
 ------------------------------------------------------------------------
 
-## 🎨 Design & UI Tools
+## 🎨 Design & UI
 
-> Tools used for designing interfaces and graphics.
+Tools used for interface design and graphics.
 
 ```{=html}
 <p align="left">
@@ -115,7 +113,7 @@ I want to become a professional programmer and developer.
 
 ## 🧰 Development Tools
 
-> Applications used for writing code and improving workflow.
+Applications used for coding and improving workflow.
 
 ```{=html}
 <p align="left">
@@ -127,18 +125,15 @@ I want to become a professional programmer and developer.
 
 ------------------------------------------------------------------------
 
-# 🌎 Social
+## 🌎 Social
 
 ```{=html}
 <p align="left">
 ```
 `<a href="https://github.com/TajimeRose">`{=html}
-`<img src="https://skillicons.dev/icons?i=github" width="50"/>`{=html}
+`<img src="https://skillicons.dev/icons?i=github" width="50" />`{=html}
 `</a>`{=html}
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
 ⭐ Thanks for visiting my profile!
