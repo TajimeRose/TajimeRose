@@ -1,0 +1,97 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "TajimeRose",
+    "username": "TajimeRose",
+    "headline": "Developer & Freeland Builder",
+    "affiliation": "Bangkok University",
+    "location": "Thailand",
+    "status": "Learning / Building / Growing",
+    "about": [
+      "I want to be the best programmer or software developer, versatile and capable of almost anything. I continuously improve myself, develop my skills, and refuse to be outmatched by AI.",
+      "Based in Thailand, I am currently pursuing a Bachelor's degree at Bangkok University while exploring programming languages, AI, web development, automation, databases, back-end systems, and more."
+    ]
+  },
+  "research": {
+    "primary": "AI & Software Dev",
+    "direction": "Practical intelligent systems",
+    "themes": "Web dev / automation / AI / backend",
+    "narrative": "I am interested in building practical systems that combine modern web development, automation, and AI. My goal is to understand how software can become smarter, more efficient, and more accessible while keeping me at the cutting edge of technology."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Full-stack development with modern frameworks, from frontend interfaces to backend systems and APIs."
+    },
+    {
+      "name": "AI & Automation",
+      "description": "Practical AI applications, intelligent workflows, and automation that makes software more efficient."
+    },
+    {
+      "name": "Backend & Database",
+      "description": "Scalable backend systems, database architecture, and reliable data-driven applications."
+    },
+    {
+      "name": "Developer Tools",
+      "description": "Tools and workflows that help developers build, test, and ship better software faster."
+    }
+  ],
+  "projects": [
+    {
+      "name": "My Portfolio",
+      "url": "https://github.com/TajimeRose/TajimeRose",
+      "homepage": "",
+      "focus": "Personal profile & projects",
+      "summary": "My GitHub profile showcasing my journey as a developer, current projects, and areas of exploration.",
+      "heroLabel": "Profile"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "React",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "C",
+    "C++",
+    "Rust",
+    "Kotlin",
+    "Dart",
+    "Ruby"
+  ],
+  "links": [
+    {
+      "label": "Email",
+      "value": "wongsathon.witt@gmail.com",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=wongsathon.witt@gmail.com",
+      "logo": "gmail",
+      "color": "EA4335"
+    },
+    {
+      "label": "Instagram",
+      "value": "tajimerose.dev",
+      "url": "https://www.instagram.com/tajimerose.dev",
+      "logo": "instagram",
+      "color": "E4405F"
+    },
+    {
+      "label": "X / Twitter",
+      "value": "Tajime_ROSE",
+      "url": "https://x.com/Tajime_ROSE",
+      "logo": "x",
+      "color": "000000"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building skills, learning constantly, and sharing what I create."
+}
