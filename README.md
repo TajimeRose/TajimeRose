@@ -8,6 +8,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://tajimerose.github.io/profile/" target="_blank">
+    View Portfolio
+  </a>
+</p>
+  
 ## Hey, I'm TajimeRose
 
 I'm a **developer & freeland builder** based in Thailand. I work across **web development, AI, automation, and backend systems**, learning constantly and building software that pushes my skills forward.
