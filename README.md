@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tajimerose.github.io/profile/" target="_blank">
+  <a href="https://tajimerose-profile.vercel.app/" target="_blank">
     View Portfolio
   </a>
 </p>
