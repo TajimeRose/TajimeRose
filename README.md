@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-11b0cc90-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-11b0cc90-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-11b0cc90-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-11b0cc90-light.svg">
-    <img src="./assets/hero/agent-console-11b0cc90-dark.svg" alt="TajimeRose, Developer & Freeland Builder" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-57c0d3f0-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-57c0d3f0-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-57c0d3f0-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-57c0d3f0-light.svg">
+    <img src="./assets/hero/agent-console-57c0d3f0-dark.svg" alt="TajimeRose, Developer & Freeland Builder" width="100%">
   </picture>
 </p>
 
