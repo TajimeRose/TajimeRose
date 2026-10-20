@@ -113,7 +113,16 @@ Building prototypes and projects is how I test those ideas in practice.
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-`
+
+---
+
+## Contribution Invaders
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TajimeRose/TajimeRose/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TajimeRose/TajimeRose/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/TajimeRose/TajimeRose/output/commit-invaders.svg" width="100%">
+</picture>
 
 <details>
 <summary><strong>Recent public activity</strong></summary>
