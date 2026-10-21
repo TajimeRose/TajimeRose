@@ -31,7 +31,10 @@ I enjoy taking projects from an early idea to a working release: understanding t
 
 | Project | What I built | My role · Current state |
 | --- | --- | --- |
-| [**NongPlatoo.Ai**](https://github.com/TajimeRose/profile) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
+| [**NongPlatoo.Ai**](https://github.com/TajimeRose/NongPlatoo.Ai) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
+| [**AI-health-analyze**](https://github.com/TajimeRose/AI-health-analyze) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
+| [**CRM-NongPlatoo**](https://github.com/TajimeRose/CRM-NongPlatoo) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
+| [**DEV-LIFE**](https://github.com/TajimeRose/DEV-LIFE) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
 
 ## What I'm Exploring
 
