@@ -31,10 +31,10 @@ I enjoy taking projects from an early idea to a working release: understanding t
 
 | Project | What I built | My role · Current state |
 | --- | --- | --- |
-| [**NongPlatoo.Ai**](https://github.com/TajimeRose/NongPlatoo.Ai) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
-| [**AI-health-analyze**](https://github.com/TajimeRose/AI-health-analyze) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
-| [**CRM-NongPlatoo**](https://github.com/TajimeRose/CRM-NongPlatoo) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
-| [**DEV-LIFE**](https://github.com/TajimeRose/DEV-LIFE) | An AI-themed web project built with HTML, CSS, and JavaScript — a practical exploration of AI concepts in a frontend interface. | Developer · Building |
+| [**DEV-LIFE**](https://github.com/TajimeRose/DEV-LIFE) | An all-in-one developer workspace built with Next.js 16, React 19, TypeScript, and Supabase — featuring project boards, interactive React Flow diagramming, and Playwright E2E tests. | Developer · Active |
+| [**NongPlatoo.Ai**](https://github.com/TajimeRose/NongPlatoo.Ai) | A full-stack AI travel assistant built with Flask, PostgreSQL, and OpenAI API — featuring pgvector semantic search, contextual recommendations, MediaPipe face tracking, and TTS. | Developer · Completed |
+| [**CRM-NongPlatoo**](https://github.com/TajimeRose/CRM-NongPlatoo) | A responsive back-office CRM dashboard built with React, TypeScript, and Tailwind CSS — managing tourism datasets with TanStack Query caching and PostgreSQL/SQLAlchemy ORM. | Developer · Completed |
+| [**AI-health-analyze**](https://github.com/TajimeRose/AI-health-analyze) | An AI-powered health diagnostic tool built with Python and ML models — providing preliminary symptom assessment and real-time meal calorie tracking for preventive healthcare. | Developer · Active |
 
 ## What I'm Exploring
 
