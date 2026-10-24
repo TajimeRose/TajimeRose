@@ -42,7 +42,27 @@ I'm interested in building practical systems that combine modern web development
 
 Building prototypes and projects is how I test those ideas in practice.
 
+---
 
+## Contribution Invaders
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/commit-invaders.svg">
+  <img alt="Commit Invaders" src="./assets/commit-invaders-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary><strong>Recent public activity</strong></summary>
+<br>
+
+<!-- AUTO:ACTIVITY:START -->
+_Recent public activity will appear here after the workflow runs._
+<!-- AUTO:ACTIVITY:END -->
+
+</details>
+
+---
 
 # Contact
 <p align="left">
@@ -116,26 +136,6 @@ Building prototypes and projects is how I test those ideas in practice.
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-
----
-
-## Contribution Invaders
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/commit-invaders-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/commit-invaders.svg">
-  <img alt="Commit Invaders" src="./assets/commit-invaders-dark.svg" width="100%">
-</picture>
-
-<details>
-<summary><strong>Recent public activity</strong></summary>
-<br>
-
-<!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
-<!-- AUTO:ACTIVITY:END -->
-
-</details>
 
 ---
 
